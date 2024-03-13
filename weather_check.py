@@ -24,4 +24,3 @@ def get_weather(city):
         'name' : city_name
        
     }
-
